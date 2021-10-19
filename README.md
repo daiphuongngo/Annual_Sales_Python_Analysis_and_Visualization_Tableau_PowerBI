@@ -8,6 +8,12 @@ Analysis methods: Pandas, Matplotlib
 ## Overview: 
 In this repository, we will run a Sales Analysis and Visualization in Python on 200,000 sales data points to come up answers to these Revenue questions.
 
+## Language & Tool:
+
+- Python
+
+- Tableau
+
 ## Data Cleaning:
 - Drop NaN values from DataFrame
 - Removing rows based on a condition
