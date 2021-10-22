@@ -8,6 +8,13 @@ Analysis methods: Pandas, Matplotlib
 ## Overview: 
 In this repository, we will run a Sales Analysis and Visualization in Python on 200,000 sales data points to come up answers to these Revenue questions.
 
+## Dataset: 
+
+12 CSV files for 12 months of Sales data in 2019 with the same columns.
+
+| Order ID | Product | Quantity Ordered | Price Each | Order Date | Purchase Address | 
+|-|-|-|-|-|-|
+
 ## Language & Tool:
 
 - Python
