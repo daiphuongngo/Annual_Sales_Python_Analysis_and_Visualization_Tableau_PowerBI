@@ -64,6 +64,8 @@ The peak of placing Orders was at 11 AM and 12 PM (during lunch break), and at 7
 
 ![Hourly Sales Revenue](https://user-images.githubusercontent.com/70437668/138407897-70337ad5-a4bd-4b08-8f85-289137526390.jpg)
 
+![Hourly Sales Revenue](https://user-images.githubusercontent.com/70437668/138536563-d9839a95-d0d7-4b75-bc90-ce51d882a88b.jpg)
+
 The top-selling products were iPhone, Lightning Charging Cable by 882 items sold at the same time within the same order. Companies can sell their products in a combo to push sales for both best sellers and the less common items. Or they can place promotion on a combo while keeping the regular price of their single purchased product to raise demand for buying a combo rather than a single item.
 
 ![Quantity Ordered by Product](https://user-images.githubusercontent.com/70437668/138407928-7e718903-bd88-47db-a02e-5561266df826.jpg)
