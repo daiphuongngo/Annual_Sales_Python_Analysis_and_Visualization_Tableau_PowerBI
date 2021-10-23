@@ -50,11 +50,15 @@ December had the highest Sales Value at US$ 4,613,443.5. To dive deeper into why
 
 ![Monthly Sales Revenue](https://user-images.githubusercontent.com/70437668/138407880-8ea4baa1-391f-4bda-b097-b6389eaf9373.jpg)
 
+![Monthly Sales Revenue](https://user-images.githubusercontent.com/70437668/138536531-b868be00-91b2-4beb-aaa5-2e4501da1124.jpg)
+
 San Francisco had the highest Sales at US$ 8,262,204. This can be explained by some possible reasons:
 - Silicon Valley is based in San Francisco.
 - There is a density of engineers in San Franciso with high income. Therefore, they tend to spend more in this city, especially on hi-tech products.
 
 ![City Sales Revenue](https://user-images.githubusercontent.com/70437668/138407848-a3714843-0cdb-4caf-8d01-56f6723e8783.jpg)
+
+![City Sales Revenue](https://user-images.githubusercontent.com/70437668/138536533-55620432-18fd-4d57-ace3-020614fe73e3.jpg)
 
 The peak of placing Orders was at 11 AM and 12 PM (during lunch break), and at 7 PM, when people got home after work. Therefore, running an ad within 30-60 minutes before these two periods can be recommended to get the most viewers.
 
@@ -63,6 +67,8 @@ The peak of placing Orders was at 11 AM and 12 PM (during lunch break), and at 7
 The top-selling products were iPhone, Lightning Charging Cable by 882 items sold at the same time within the same order. Companies can sell their products in a combo to push sales for both best sellers and the less common items. Or they can place promotion on a combo while keeping the regular price of their single purchased product to raise demand for buying a combo rather than a single item.
 
 ![Quantity Ordered by Product](https://user-images.githubusercontent.com/70437668/138407928-7e718903-bd88-47db-a02e-5561266df826.jpg)
+
+![Quantity Ordered by Product](https://user-images.githubusercontent.com/70437668/138536541-21ad08be-924e-419d-88b2-79b21f484a78.jpg)
 
 There is a correlation between the Products' Prices and their Volumes. The AA and AAA Batteries had the highest Volumes Ordered while other pricey products had both low quantities and revenues. As we do not have other data of other factors or criteria such as brand quality to research and analyze further, so far that is the sum-up of our conclusion.
 
