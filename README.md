@@ -1,9 +1,29 @@
 # Annual_Sales_Analysis_and_Visualization
 
-Dataset: as per my Github
-Programming language: Python 
-Platform: Google Colab
-Analysis methods: Pandas, Matplotlib
+## Category:
+
+- Retail
+
+- Electronics
+
+
+## Dataset: 
+
+- as per my Github
+
+## Programming language: 
+
+- Python 
+
+## Platform: 
+
+- Google Colab
+
+## Analysis methods: 
+
+- Pandas
+
+- Matplotlib
 
 ## Overview: 
 In this repository, we will run a Sales Analysis and Visualization in Python on 200,000 sales data points to come up answers to these Revenue questions.
