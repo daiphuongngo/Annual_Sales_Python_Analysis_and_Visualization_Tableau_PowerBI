@@ -6,11 +6,6 @@
 
 - Electronics
 
-
-## Dataset: 
-
-- as per my Github
-
 ## Programming language: 
 
 - Python 
@@ -30,7 +25,7 @@ In this repository, we will run a Sales Analysis and Visualization in Python on 
 
 ## Dataset: 
 
-12 CSV files for 12 months of Sales data in 2019 with the same columns.
+12 CSV files for 12 months of Sales data in 2019 with the same columns as per my Github's folder
 
 | Order ID | Product | Quantity Ordered | Price Each | Order Date | Purchase Address | 
 |-|-|-|-|-|-|
