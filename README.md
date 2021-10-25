@@ -6,6 +6,8 @@
 
 - Electronics
 
+- Sales
+
 ## Programming language: 
 
 - Python 
