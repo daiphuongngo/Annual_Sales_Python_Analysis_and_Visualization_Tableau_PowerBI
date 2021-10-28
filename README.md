@@ -59,7 +59,9 @@ In this repository, we will run a Sales Analysis and Visualization in Python on 
 - Plotting bar charts and lines graphs to visualize results
 - Labeling graphs
 
-## Evaluation:
+## Evaluation + Visualization on Tableau & Power BI:
+
+### Monthly Sales Revenue:
 
 December had the highest Sales Value at US$ 4,613,443.5. To dive deeper into why December had the highest Sales Value. We can analyze further by the following hypotheses:
 - Holiday season (for example Christmas, New Year, etc.) might affect and have a positive correlation with the highest sales of the year, namely in December.
@@ -68,6 +70,8 @@ December had the highest Sales Value at US$ 4,613,443.5. To dive deeper into why
 ![Monthly Sales Revenue](https://user-images.githubusercontent.com/70437668/138407880-8ea4baa1-391f-4bda-b097-b6389eaf9373.jpg)
 
 ![Monthly Sales Revenue](https://user-images.githubusercontent.com/70437668/138536531-b868be00-91b2-4beb-aaa5-2e4501da1124.jpg)
+
+### City Sales Revenue:
 
 San Francisco had the highest Sales at US$ 8,262,204. This can be explained by some possible reasons:
 - Silicon Valley is based in San Francisco.
@@ -79,11 +83,15 @@ San Francisco had the highest Sales at US$ 8,262,204. This can be explained by s
 
 The peak of placing Orders was at 11 AM and 12 PM (during lunch break), and at 7 PM, when people got home after work. Therefore, running an ad within 30-60 minutes before these two periods can be recommended to get the most viewers.
 
+### Hourly Sales Revenue:
+
 ![Hourly Sales Revenue](https://user-images.githubusercontent.com/70437668/138407897-70337ad5-a4bd-4b08-8f85-289137526390.jpg)
 
 ![Hourly Sales Revenue](https://user-images.githubusercontent.com/70437668/138536563-d9839a95-d0d7-4b75-bc90-ce51d882a88b.jpg)
 
 The top-selling products were iPhone, Lightning Charging Cable by 882 items sold at the same time within the same order. Companies can sell their products in a combo to push sales for both best sellers and the less common items. Or they can place promotion on a combo while keeping the regular price of their single purchased product to raise demand for buying a combo rather than a single item.
+
+### Quantity Ordered by Product:
 
 ![Quantity Ordered by Product](https://user-images.githubusercontent.com/70437668/138407928-7e718903-bd88-47db-a02e-5561266df826.jpg)
 
@@ -91,9 +99,15 @@ The top-selling products were iPhone, Lightning Charging Cable by 882 items sold
 
 There is a correlation between the Products' Prices and their Volumes. The AA and AAA Batteries had the highest Volumes Ordered while other pricey products had both low quantities and revenues. As we do not have other data of other factors or criteria such as brand quality to research and analyze further, so far that is the sum-up of our conclusion.
 
+### Dashboard - Hourly Sales Revenue and Quantity Ordered by Product:
+
 ![Dashboard - Hourly Sales Revenue and Quantity Ordered by Product](https://user-images.githubusercontent.com/70437668/138407971-72e7c621-d985-45ea-b14c-10d51a1cb0fc.jpg)
 
+### Dashboard - Sales Revenue by City, Month:
+
 ![Dashboard - Sales Revenue by City, Month](https://user-images.githubusercontent.com/70437668/138407981-5f467fc0-0edc-45ae-8b8d-00253b834bfb.jpg)
+
+### Dashboard - Sales Revenue by Hour, Month, City:
 
 ![Dashboard - Sales Revenue by Hour, Month, City](https://user-images.githubusercontent.com/70437668/138407992-cf7f0826-b43f-4547-ab6a-5fa35bc9e742.jpg)
 
