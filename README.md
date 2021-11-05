@@ -38,6 +38,8 @@ In this repository, we will run a Sales Analysis and Visualization in Python on 
 
 - Tableau
 
+- Power BI
+
 ## Data Cleaning:
 - Drop NaN values from DataFrame
 - Removing rows based on a condition
