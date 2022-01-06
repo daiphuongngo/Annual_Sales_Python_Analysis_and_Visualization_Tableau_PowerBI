@@ -40,6 +40,20 @@ In this repository, we will run a Sales Analysis and Visualization in Python on 
 
 - Power BI
 
+## Target Achievements:
+
+- Visualized & compared results between charts in Tableau & Power BI to determine that the variables which caused the highest Sales Value as per hypotheses: 
+
++ December at US$ 4.6 million due to holiday season with more promotions & newly launched products by electronics corporations in Quarter 4, 
+
++ San Francisco at US$ 8.2 million as Silicon Valley is based there having a density of engineers in San Francisco with high income & spending on hi-tech products, 
+
++ Peak hours placing orders at 11 AM & 12 PM (during lunch break) & at 7 PM after work, 
+
++ Top sold products: iPhone, Lightning Charging Cable by 882 items ordered at the same time within the same order (suggested strategy: selling a combo of best sellers & less common items), 
+
++ The correlation between Prices & Volumes as AA &  AAA Batteries had the highest volumes ordered while other pricey products had both low.
+
 ## Data Cleaning:
 - Drop NaN values from DataFrame
 - Removing rows based on a condition
