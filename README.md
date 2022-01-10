@@ -23,7 +23,7 @@
 - Matplotlib
 
 ## Overview: 
-In this repository, we will run a Sales Analysis and Visualization in Python on 200,000 sales data points to come up answers to these Revenue questions.
+In this repository, I will run a Sales Analysis and Visualization in Python on 200,000 sales data points to come up answers to these Revenue questions.
 
 ## Dataset: 
 
@@ -118,7 +118,7 @@ The top-selling products were iPhone, Lightning Charging Cable by 882 items sold
 
 ![Quantity Ordered by Product](https://user-images.githubusercontent.com/70437668/138536541-21ad08be-924e-419d-88b2-79b21f484a78.jpg)
 
-There is a correlation between the Products' Prices and their Volumes. The AA and AAA Batteries had the highest Volumes Ordered while other pricey products had both low quantities and revenues. As we do not have other data of other factors or criteria such as brand quality to research and analyze further, so far that is the sum-up of our conclusion.
+There is a correlation between the Products' Prices and their Volumes. The AA and AAA Batteries had the highest Volumes Ordered while other pricey products had both low quantities and revenues. As I do not have other data of other factors or criteria such as brand quality to research and analyze further, so far that is the sum-up of our conclusion.
 
 ### Dashboard - Hourly Sales Revenue and Quantity Ordered by Product:
 
