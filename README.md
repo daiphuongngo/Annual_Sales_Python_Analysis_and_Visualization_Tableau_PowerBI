@@ -114,6 +114,8 @@ The top-selling products were iPhone, Lightning Charging Cable by 882 items sold
 
 ### Quantity Ordered by Product:
 
+There are seasonal fluctuations which show drops in the months of ... for almost all product in general.
+
 ![Quantity Ordered by Product](https://user-images.githubusercontent.com/70437668/138407928-7e718903-bd88-47db-a02e-5561266df826.jpg)
 
 ![Quantity Ordered by Product](https://user-images.githubusercontent.com/70437668/138536541-21ad08be-924e-419d-88b2-79b21f484a78.jpg)
