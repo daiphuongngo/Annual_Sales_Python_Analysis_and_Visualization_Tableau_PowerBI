@@ -114,7 +114,7 @@ The top-selling products were iPhone, Lightning Charging Cable by 882 items sold
 
 ### Quantity Ordered by Product:
 
-There are seasonal fluctuations which show drops in the months of ... for almost all product in general.
+There are seasonal fluctuations which show constant drops from Apr to Aug for almost all products in general. Another lowest decline happened in December after a peak in November. The reasons might be because customers tend to spend for products on or before Thanksgiving in October/November and Chirstmans Sales in December. Then we could spend less on products in December but other priorities such as clothing, food and berage.
 
 ![Quantity Ordered by Product](https://user-images.githubusercontent.com/70437668/138407928-7e718903-bd88-47db-a02e-5561266df826.jpg)
 
