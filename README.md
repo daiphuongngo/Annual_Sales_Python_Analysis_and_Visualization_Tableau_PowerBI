@@ -116,13 +116,17 @@ The top-selling products were iPhone, Lightning Charging Cable by 882 items sold
 
 There are seasonal fluctuations which show constant drops from Apr to Aug for almost all products in general. Another lowest decline happened in December after a peak in November. The reasons might be because customers tend to spend for products on or before Thanksgiving in October/November and Chirstmans Sales in December. Then we could spend less on products in December but other priorities such as clothing, food and berage.
 
+A suggestion might be that we can offer some seasonal rapid promotions for some products in summer so customers can spend for some products like batteries, dryers and headphones to solve the low quantities sold during those months. 
+
 Seasonality refers to a pattern of fluctuations above or below some average level that repeats at regular intervals. These “seasons” are viewed as short term patterns.
 
 ![Quantity Ordered by Product](https://user-images.githubusercontent.com/70437668/138407928-7e718903-bd88-47db-a02e-5561266df826.jpg)
 
-![Quantity Ordered by Product](https://user-images.githubusercontent.com/70437668/138536541-21ad08be-924e-419d-88b2-79b21f484a78.jpg)
+There is a correlation between the Products' Prices and their Volumes. The AA and AAA Batteries had the highest Volumes Ordered while other pricey products had both low quantities and revenues. Easily-replaceable and affordableproducts like batteries, cables, headphones had more Quantities Sold than other long-used and expensive products like Smartphones, TVs, Laptops, Monitors and Dryers.
 
-There is a correlation between the Products' Prices and their Volumes. The AA and AAA Batteries had the highest Volumes Ordered while other pricey products had both low quantities and revenues. As I do not have other data of other factors or criteria such as brand quality to research and analyze further, so far that is the sum-up of our conclusion.
+As I do not have other data of other factors or criteria such as brand quality to research and analyze further, so far that is the sum-up of our conclusion.
+
+![Quantity Ordered by Product](https://user-images.githubusercontent.com/70437668/138536541-21ad08be-924e-419d-88b2-79b21f484a78.jpg)
 
 ### Dashboard - Hourly Sales Revenue and Quantity Ordered by Product:
 
