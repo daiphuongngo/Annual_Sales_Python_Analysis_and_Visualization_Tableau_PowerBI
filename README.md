@@ -8,9 +8,13 @@
 
 - Sales
 
-## Programming language: 
+## Languages and Tools: 
 
 - Python 
+
+- Power BI
+
+- Tableau
 
 ## Platform: 
 
@@ -23,7 +27,10 @@
 - Matplotlib
 
 ## Overview: 
+
 In this repository, I will run a Sales Analysis and Visualization in Python on 200,000 sales data points to come up answers to these Revenue questions.
+
+This project was used for my training when working as a Data Analyst Intern at Center of Talent in AI using Python, Power BI, Tableau in 2020.
 
 ## Dataset: 
 
